@@ -8,7 +8,8 @@ import java.util.stream.Collectors;
  * 
  * @author Venkateshkumar.S
  * 
- * Demonstrates sample functions in java 8
+ * Demonstrates sample functions in java 8 
+ * Distinct function applied in Strings
  *
  */
 public class HelloJava8 {
